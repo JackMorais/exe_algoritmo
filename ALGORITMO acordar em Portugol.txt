@@ -1,0 +1,16 @@
+ALGORITMO acordar em Portugol
+
+1- abrir os olhos
+2- ver as horas
+3- se horas for menor que 03:30
+ 1- continuo deitado
+ 2- olho algo no celular deitado
+4- se horas for maior ou igual que 03:30
+ 1- retiro o cobertor
+ 2- arrumo a cama
+ 3- vou ao banheiro escovar dentes
+ 4- no banheiro tomar banho
+ 5- enxugo
+ 6-saio do banheiro
+5- pronto para me arrumar
+ 
